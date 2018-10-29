@@ -1,7 +1,7 @@
-import {observable, computed, autorun} from 'mobx';
 
-namespace data{
+
+namespace FCBdata {
   export class Player {
-    @observable private 
+    @observable public account: FDBdata.Account;
   }
 }

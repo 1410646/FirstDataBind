@@ -29,6 +29,10 @@
     },
     {
       "name": "promise"
+    },
+    {
+      "name":"mobx",
+      "path": "./libs/mobx"
     }
   ]
 }

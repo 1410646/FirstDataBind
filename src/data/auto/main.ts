@@ -1,9 +1,8 @@
-namespace data {
-  /**
-   * 数据源根节点类型
-   */
-  export class Main {
-    
-    
-  }
+
+/**
+ * 数据源根节点类型
+ */
+export class Main {
+  private pp: string;
+
 }
